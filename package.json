@@ -1,6 +1,6 @@
 {
   "name": "i-should-pass",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Should always return true",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,9 @@
   },
   "author": "Andrew Hughes",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/andrewhughes101/i-should-pass"
+  "homepage": "https://github.com/andrewhughes101/i-should-pass",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrewhughes101/i-should-pass.git"
+  }
 }
